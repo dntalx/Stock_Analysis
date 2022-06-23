@@ -19,7 +19,8 @@ Origianl runtime
 
 Refractored runtime
 
-![alt text] (https://github.com/dntalx/Stock_Analysis/blob/main/Resources/Refractored_2017.png)
+![alt text](https://github.com/dntalx/Stock_Analysis/blob/main/Resources/Refractored_2017.png)
+![alt text](https://github.com/dntalx/Stock_Analysis/blob/main/Resources/Refractored_2018.png)
 
 ## Summary
  
