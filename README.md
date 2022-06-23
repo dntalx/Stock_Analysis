@@ -12,6 +12,8 @@ The biggest difference between the original code and the refractored code was th
 
 In the refractored code we only used one
 
+![alt text](https://github.com/dntalx/Stock_Analysis/blob/main/Resources/Refractored_Code.png)
+
 This means that the execution time for the refractored code was faster than the original.
 
 ## Summary
