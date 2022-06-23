@@ -14,7 +14,7 @@ This means that the execution time for the refractored code was faster than the 
 
 ## Summary
  
-###Advantages and Disadvantages of Refactoring Code
+### Advantages and Disadvantages of Refactoring Code
 
 One of the biggest advantages when refractoring code is how it look and how easy it is to read. Thsi is essential for debugging as it is easier to look through the code and find where some mistakes might be, as well as for others to look over it and understand what is going on. Another important advantage is that the code will run faster compared to the original code. 
 
