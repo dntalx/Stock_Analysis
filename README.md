@@ -8,7 +8,7 @@ The purpose of this project is to analyize the performance of a set of stocks in
 
 The biggest difference between the original code and the refractored code was the num,ber of loops used. We used two loops in the original code, one of them being nested, shown below:
 
-![Alt text] (https://github.com/dntalx/Stock_Analysis/blob/main/Resources/Original_Code.png)
+![alt text](https://github.com/dntalx/Stock_Analysis/blob/main/Resources/Original_Code.png)
 
 In the refractored code we only used one
 
