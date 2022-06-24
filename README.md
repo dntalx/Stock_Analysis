@@ -15,9 +15,6 @@ In the refractored code we only used one
 ![alt text](https://github.com/dntalx/Stock_Analysis/blob/main/Resources/Refractored_Code.png)
 
 This means that the execution time for the refractored code was faster than the original.
-Origianl runtime
-
-Refractored runtime
 
 ![alt text](https://github.com/dntalx/Stock_Analysis/blob/main/Resources/Refractored_2017.png)
 ![alt text](https://github.com/dntalx/Stock_Analysis/blob/main/Resources/Refractored_2018.png)
